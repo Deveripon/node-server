@@ -1,0 +1,19 @@
+{
+    "name": "server",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "server": "nodemon server"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "colors": "^1.4.0"
+    },
+    "dependencies": {
+        "dotenv": "^16.3.1",
+        "live-server": "^1.2.2"
+    }
+}
